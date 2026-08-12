@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/ANSH-23/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+## String
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/ANSH-23/Leetcode/tree/master/0093-restore-ip-addresses) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/ANSH-23/Leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
