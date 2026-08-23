@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ANSH-23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ANSH-23/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ANSH-23/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ANSH-23/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANSH-23/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSH-23/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANSH-23/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ANSH-23/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ANSH-23/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ANSH-23/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 ## Binary Search Tree
 |  |
