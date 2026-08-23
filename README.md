@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ANSH-23/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ANSH-23/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ANSH-23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ANSH-23/Leetcode/tree/master/0127-word-ladder) |
+| [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANSH-23/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSH-23/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSH-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
