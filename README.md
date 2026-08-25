@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANSH-23/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ANSH-23/Leetcode/tree/master/0130-surrounded-regions) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANSH-23/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ANSH-23/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sliding Window
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ANSH-23/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ANSH-23/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -264,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
