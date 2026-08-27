@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANSH-23/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ANSH-23/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ANSH-23/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ANSH-23/Leetcode/tree/master/0135-candy) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANSH-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ANSH-23/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ANSH-23/Leetcode/tree/master/0135-candy) |
 | [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ANSH-23/Leetcode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ANSH-23/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
