@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ANSH-23/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ANSH-23/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ANSH-23/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANSH-23/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ANSH-23/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ANSH-23/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANSH-23/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANSH-23/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSH-23/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ANSH-23/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ANSH-23/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ANSH-23/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [1927-sum-game](https://github.com/ANSH-23/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ANSH-23/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ANSH-23/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ANSH-23/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ANSH-23/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ANSH-23/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 ## Binary Search Tree
@@ -325,4 +329,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ANSH-23/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ANSH-23/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
