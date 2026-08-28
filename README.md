@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ANSH-23/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ANSH-23/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ANSH-23/Leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ANSH-23/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANSH-23/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANSH-23/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSH-23/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANSH-23/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ANSH-23/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ANSH-23/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/ANSH-23/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
