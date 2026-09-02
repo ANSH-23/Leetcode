@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANSH-23/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANSH-23/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANSH-23/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANSH-23/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ANSH-23/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ANSH-23/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANSH-23/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## String
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ANSH-23/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ANSH-23/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ANSH-23/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ANSH-23/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -396,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ANSH-23/Leetcode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
