@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ANSH-23/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ANSH-23/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ANSH-23/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ANSH-23/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ANSH-23/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ANSH-23/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Depth-First Search
 |  |
 | ------- |
