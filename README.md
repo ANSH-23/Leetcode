@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ANSH-23/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ANSH-23/Leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ANSH-23/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ANSH-23/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ANSH-23/Leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ANSH-23/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ANSH-23/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ANSH-23/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ANSH-23/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
@@ -404,4 +407,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
