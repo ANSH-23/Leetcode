@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANSH-23/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ANSH-23/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ANSH-23/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ANSH-23/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSH-23/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANSH-23/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANSH-23/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ANSH-23/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANSH-23/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANSH-23/Leetcode/tree/master/0169-majority-element) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
