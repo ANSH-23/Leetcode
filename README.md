@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ANSH-23/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANSH-23/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ANSH-23/Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/ANSH-23/Leetcode/tree/master/0174-dungeon-game) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ANSH-23/Leetcode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/ANSH-23/Leetcode/tree/master/0174-dungeon-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ANSH-23/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ANSH-23/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ANSH-23/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ANSH-23/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/ANSH-23/Leetcode/tree/master/0174-dungeon-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ANSH-23/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ANSH-23/Leetcode/tree/master/1872-stone-game-viii) |
