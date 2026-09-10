@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ANSH-23/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ANSH-23/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ANSH-23/Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ANSH-23/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
