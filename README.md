@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ANSH-23/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ANSH-23/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/ANSH-23/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANSH-23/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ANSH-23/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ANSH-23/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/ANSH-23/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -512,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/ANSH-23/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ANSH-23/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/ANSH-23/Leetcode/tree/master/0180-consecutive-numbers) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ANSH-23/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
