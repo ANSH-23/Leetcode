@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANSH-23/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ANSH-23/Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/ANSH-23/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ANSH-23/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ANSH-23/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ANSH-23/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/ANSH-23/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ANSH-23/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
 | ------- |
