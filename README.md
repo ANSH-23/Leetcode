@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ANSH-23/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ANSH-23/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ANSH-23/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ANSH-23/Leetcode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ANSH-23/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ANSH-23/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ANSH-23/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ANSH-23/Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/ANSH-23/Leetcode/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/ANSH-23/Leetcode/tree/master/0835-image-overlap) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ANSH-23/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ANSH-23/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANSH-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ANSH-23/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ANSH-23/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANSH-23/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ANSH-23/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ANSH-23/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ANSH-23/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ANSH-23/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/ANSH-23/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ANSH-23/Leetcode/tree/master/0200-number-of-islands) |
 | [1096-brace-expansion-ii](https://github.com/ANSH-23/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ANSH-23/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANSH-23/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ANSH-23/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ANSH-23/Leetcode/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ANSH-23/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
