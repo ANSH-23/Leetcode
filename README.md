@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANSH-23/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ANSH-23/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ANSH-23/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
 | [0835-image-overlap](https://github.com/ANSH-23/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ANSH-23/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ANSH-23/Leetcode/tree/master/1563-stone-game-v) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ANSH-23/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ANSH-23/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ANSH-23/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ANSH-23/Leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/ANSH-23/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ANSH-23/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
 | [1622-fancy-sequence](https://github.com/ANSH-23/Leetcode/tree/master/1622-fancy-sequence) |
 ## Fermat's Little Theorem
 |  |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANSH-23/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ANSH-23/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ANSH-23/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -607,4 +611,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANSH-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ANSH-23/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ANSH-23/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
