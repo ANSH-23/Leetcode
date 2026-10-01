@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ANSH-23/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ANSH-23/Leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/ANSH-23/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ANSH-23/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## String
 |  |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ANSH-23/Leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/ANSH-23/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ANSH-23/Leetcode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANSH-23/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Doubly-Linked List
